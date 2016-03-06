@@ -2,14 +2,15 @@
 /**
  * Created by PhpStorm.
  * User: Lukas
- * Date: 05.03.2016
- * Time: 01:13
+ * Date: 06.03.2016
+ * Time: 13:46
  */
 
-namespace oop_Learn\Controllers;
+namespace oop_Learn\Controllers {
 
 
-class LoginController
-{
-        
+    class LoginController
+    {
+
+    }
 }

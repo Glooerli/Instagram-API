@@ -11,8 +11,8 @@ namespace oop_Learn\Routers
 
     use oop_Learn\Controllers\AbstractController;
     use oop_Learn\Controllers\FrontPageController;
-    use oop_Learn\Controllers\LoginController;
     use oop_Learn\ValueObjects\Uri;
+    use oop_Learn\Controllers\LoginController;
 
     class Router
     {
