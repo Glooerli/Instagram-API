@@ -33,7 +33,13 @@ namespace oop_Learn\Controllers
         public function run(Uri $uri)
         {
             $this->uri = $uri;
+            $this->doRun();
             return new Response($this->getBody());
+        }
+
+        protected function doRun()
+        {
+
         }
 
         /**
